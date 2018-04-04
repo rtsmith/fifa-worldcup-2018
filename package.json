@@ -1,4 +1,6 @@
 {
+  "name": "world_cup_data",
+  "version": "0.0.1",
   "scripts": {
     "test": "node_modules/.bin/jsonlint data.json -q"
   },
